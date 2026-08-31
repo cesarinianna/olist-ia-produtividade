@@ -1,0 +1,11 @@
+﻿metrica,valor
+AUC_ROC,0.43484813445684406
+precision_atraso,0.046021840873634944
+recall_atraso,0.1733594515181195
+f1_atraso,0.07273474419560304
+precision_baseline,0.0
+recall_baseline,0.0
+threshold,0.5
+pedidos_treino,77180.0
+pedidos_teste,19296.0
+taxa_atraso_teste,0.05291252072968491

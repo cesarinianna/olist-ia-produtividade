@@ -1,0 +1,5 @@
+﻿cenario,reviews_automaticas,reviews_humanas,horas_operacionais,falsos_negativos_estimados,custo_erros_estimado,horas_economizadas_vs_manual,custo_mao_de_obra,custo_total_estimado
+100% manual,0,14575,971.6666666666666,0,0.0,0.0,34008.33333333333,34008.33333333333
+100% automatico,14575,0,60.729166666666664,5433,135825.0,910.9375,2125.520833333333,137950.52083333334
+Hibrido: automatizar apenas alta confianca,3990,10585,722.2916666666666,200,5000.0,249.375,25280.208333333332,30280.208333333332
+Hibrido: automatizar alta + media; humano na baixa,9142,5433,400.2916666666667,972,24300.0,571.375,14010.208333333334,38310.208333333336

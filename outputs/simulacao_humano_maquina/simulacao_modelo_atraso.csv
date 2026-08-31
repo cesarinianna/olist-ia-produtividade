@@ -1,0 +1,9 @@
+﻿metrica,valor
+Alertas totais para humano,3846.0
+Verdadeiros atrasos detectados,177.0
+Falsos positivos,3669.0
+Falsos negativos,844.0
+Horas humanas exigidas,512.8
+Custo de triagem humana,17948.0
+Custo estimado dos atrasos nao detectados,29540.0
+Custo total estimado,47488.0
